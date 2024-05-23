@@ -12,7 +12,7 @@ from PIL import Image, ImageTk
 from tkinter import messagebox
 from tkinter import PhotoImage
 from tkinter import Tk
-from compiler import Parser , CodeGenerator , Lexer
+
 
 import ipaddress
 import time
